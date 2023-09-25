@@ -1,8 +1,9 @@
 ### Hi there 👋
 
 - 👋 Hi, I’m @Syifa'udin Ridho
-- ⚡ I’m 
-- 🌱 I’m currently learning how to sleep well
+- ⚡ I’m a passionate Front End Developer with a deep interest in Artificial Intelligence.
+- 🌗 I specialize in creating visually appealing and interactive user interfaces.
+- 🧡 I love leveraging AI technologies to enhance user experiences.
 
 You can contact me bellow
 
