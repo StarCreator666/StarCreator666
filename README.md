@@ -17,6 +17,6 @@ You can click the Preview link to take a look at your changes.
 
 ### My Currently Stats
 <div class="badge">
-  <img src="https://github-readme-stats.vercel.app/api?username=starcerator666&show_icons=true&theme=tokyonight&hide_border=true" height="170px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=starcerator666&layout=compact&theme=tokyonight&hide_border=true" height="170px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=starcreator666&show_icons=true&theme=tokyonight&hide_border=true" height="170px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=starcreator666&layout=compact&theme=tokyonight&hide_border=true" height="170px"/>
 </div>
