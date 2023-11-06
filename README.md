@@ -13,6 +13,6 @@ You can contact me bellow
 
 ### My Currently Stats
 <div class="badge">
-  <img src="https://github-readme-stats.vercel.app/api?username=starcreator666&show_icons=true&theme=tokyonight&hide_border=true" height="170px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=starcreator666&layout=compact&theme=tokyonight&hide_border=true" height="170px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SyifaudinRidho&show_icons=true&theme=tokyonight&hide_border=true" height="170px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyifaudinRidho&layout=compact&theme=tokyonight&hide_border=true" height="170px"/>
 </div>
