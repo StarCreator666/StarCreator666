@@ -8,7 +8,7 @@
 You can contact me bellow
 
 [![My Email](https://img.shields.io/badge/-white?style=for-the-badge&logo=gmail&logoColor=red)![](https://img.shields.io/badge/Gmail-red?style=for-the-badge)](mailto:ridho@signtis.com)
-[![My Instagram](https://img.shields.io/badge/-white?style=for-the-badge&logo=instagram&logoColor=ff3050)![](https://img.shields.io/badge/Instagram-ff3251?style=for-the-badge)](https://www.instagram.com/syifaudinridho)
+[![My Instagram](https://img.shields.io/badge/-white?style=for-the-badge&logo=instagram&logoColor=ff3050)![](https://img.shields.io/badge/Instagram-ff3251?style=for-the-badge)](https://www.instagram.com/-)
 [![My Whatsapp](https://img.shields.io/badge/-white?style=for-the-badge&logo=whatsapp&logoColor=success)![](https://img.shields.io/badge/Whatsapp-success?style=for-the-badge)](https://wa.me/6289618587792)
 
 ### My Currently Stats
